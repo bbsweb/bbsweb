@@ -16,8 +16,7 @@
 
 | 🔗 项目  | 📖 介绍 |
 | --- | --- |
-| [httptest](/bbsweb/httptest) | HTTP 测试接口 |
-| [chatgpt-webui](/bbsweb/chatgpt-webui) | ChatGPT 网页 UI |
+| [httptest](https://github.com/bbsweb/httptest) | HTTP 测试接口 |
 
 ## 其他
 
